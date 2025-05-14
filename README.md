@@ -4,11 +4,11 @@
 
 #### **1 Clone source code từ GitHub**
 
-* Repository: [https://github.com/QgQ220903/spotify-clone.git](https://github.com/QgQ220903/spotify-clone.git)
+* Repository: [https://github.com/Haquangnguyen30/Sportify-Clone.git](https://github.com/Haquangnguyen30/Sportify-Clone.git)
 * Thực hiện:
 
   ```bash
-  git clone https://github.com/QgQ220903/spotify-clone.git
+  git clone https://github.com/Haquangnguyen30/Sportify-Clone.git
   cd spotify-clone
   ```
 
